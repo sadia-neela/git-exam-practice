@@ -11229,3 +11229,9 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 
 kkkn
 
+<<<<<<< HEAD
+=======
+
+
+//wrote code in detached mode
+>>>>>>> 5489ee7 (detached mode)
